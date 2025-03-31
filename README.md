@@ -9,9 +9,9 @@ Una calculadora básica con interfaz gráfica desarrollada en Python utilizando 
 - Botón de borrar (`CE`) y eliminación de un solo carácter (`⌫`).
 - Mensaje de información con el nombre del autor.
 
-## 🖥️ Captura de pantalla
+## 🎥 Video de demostración
 
-_Añade aquí una imagen de la calculadora ejecutándose_
+[Ver en YouTube](https://www.youtube.com/shorts/kX2XV99zvRk)
 
 ## 📦 Requisitos
 
